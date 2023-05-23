@@ -1,0 +1,6 @@
+../Core/Src/SPI_DMA.c:12:6:MX_SPI1_Init	8	static
+../Core/Src/SPI_DMA.c:37:6:HAL_SPI_TxCpltCallback	16	static
+../Core/Src/SPI_DMA.c:47:6:SPI_Tx	16	static
+../Core/Src/SPI_DMA.c:54:6:SPI_TxBuffer	16	static
+../Core/Src/SPI_DMA.c:61:6:MX_DMA_Init	16	static
+../Core/Src/SPI_DMA.c:73:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,16 @@
+../Core/Src/IL9341_TFT_Drivers.c:18:6:ILI9341_WriteCommand	16	static
+../Core/Src/IL9341_TFT_Drivers.c:26:6:ILI9341_WriteData	16	static
+../Core/Src/IL9341_TFT_Drivers.c:34:6:ILI9341_WriteBuffer	16	static
+../Core/Src/IL9341_TFT_Drivers.c:42:6:ILI9341_SetAddress	32	static
+../Core/Src/IL9341_TFT_Drivers.c:66:6:ILI9341_Reset	8	static
+../Core/Src/IL9341_TFT_Drivers.c:77:6:ILI9341_Enable	8	static
+../Core/Src/IL9341_TFT_Drivers.c:83:6:ILI9341_Init	8	static
+../Core/Src/IL9341_TFT_Drivers.c:220:6:ILI9341_SetRotation	16	static
+../Core/Src/IL9341_TFT_Drivers.c:244:6:ILI9341_DrawColor	24	static
+../Core/Src/IL9341_TFT_Drivers.c:251:6:ILI9341_DrawColorBurst	80	dynamic
+../Core/Src/IL9341_TFT_Drivers.c:294:6:ILI9341_FillScreen	16	static
+../Core/Src/IL9341_TFT_Drivers.c:301:6:ILI9341_Usermsg	16	static
+../Core/Src/IL9341_TFT_Drivers.c:308:6:ILI9341_DrawPixel	32	static
+../Core/Src/IL9341_TFT_Drivers.c:327:6:ILI9341_DrawRectangle	24	static
+../Core/Src/IL9341_TFT_Drivers.c:346:6:ILI9341_DrawHLine	24	static
+../Core/Src/IL9341_TFT_Drivers.c:360:6:ILI9341_DrawVLine	24	static

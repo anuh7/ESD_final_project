@@ -1,0 +1,6 @@
+../Core/Src/ILI9341_TFT_API.c:13:6:DelayUs	16	static
+../Core/Src/ILI9341_TFT_API.c:20:6:ILI9341_DrawX	40	static
+../Core/Src/ILI9341_TFT_API.c:35:6:ILI9341_diag	32	static
+../Core/Src/ILI9341_TFT_API.c:50:6:ILI9341_DrawHollowCircle	48	static
+../Core/Src/ILI9341_TFT_API.c:91:6:ILI9341_DrawChar	64	static
+../Core/Src/ILI9341_TFT_API.c:123:6:ILI9341_DrawText	48	static

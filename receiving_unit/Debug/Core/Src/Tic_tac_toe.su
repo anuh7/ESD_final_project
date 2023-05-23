@@ -1,0 +1,7 @@
+../Core/Src/Tic_tac_toe.c:91:13:MX_GPIO_Init	40	static
+../Core/Src/Tic_tac_toe.c:117:6:SystemClock_Config	88	static
+../Core/Src/Tic_tac_toe.c:160:6:fill_matrix	16	static
+../Core/Src/Tic_tac_toe.c:411:6:check_winner	24	static
+../Core/Src/Tic_tac_toe.c:485:6:display_winner	24	static
+../Core/Src/Tic_tac_toe.c:519:6:restart_game	24	static
+../Core/Src/Tic_tac_toe.c:561:5:main	24	static

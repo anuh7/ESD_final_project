@@ -1,0 +1,8 @@
+../Core/Src/main.c:322:6:fill_matrix	24	static
+../Core/Src/main.c:550:6:check_winner	12	static
+../Core/Src/main.c:588:6:display_winner	16	static
+../Core/Src/main.c:619:6:restart_game	24	static
+../Core/Src/main.c:661:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:101:5:main	64	static,ignoring_inline_asm
+../Core/Src/main.c:817:6:HAL_UART_RxCpltCallback	0	static
+../Core/Src/main.c:831:6:Error_Handler	0	static,ignoring_inline_asm
